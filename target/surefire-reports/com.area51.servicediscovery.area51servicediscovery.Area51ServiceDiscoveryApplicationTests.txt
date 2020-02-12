@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.area51.servicediscovery.area51servicediscovery.Area51ServiceDiscoveryApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 15.26 s - in com.area51.servicediscovery.area51servicediscovery.Area51ServiceDiscoveryApplicationTests
